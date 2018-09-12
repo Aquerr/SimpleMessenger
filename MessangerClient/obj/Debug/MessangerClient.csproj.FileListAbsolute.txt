@@ -1,0 +1,15 @@
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\bin\Debug\MessangerClient.exe.config
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\bin\Debug\MessangerClient.exe
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\bin\Debug\MessangerClient.pdb
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.csprojResolveAssemblyReference.cache
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MainWindow.g.cs
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\App.g.cs
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient_MarkupCompile.cache
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient_MarkupCompile.lref
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MainWindow.baml
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.g.resources
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.Properties.Resources.resources
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.csproj.GenerateResource.cache
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.csproj.CoreCompileInputs.cache
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.exe
+C:\Users\nerdi\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.pdb
